@@ -1,0 +1,1417 @@
+1
+00:00:00,520 --> 00:00:03,020
+<font face="Trebuchet MS"><font size="24"><i>Como um conto de fadas</i></font></font>
+
+2
+00:00:03,020 --> 00:00:05,440
+<font face="Trebuchet MS"><font size="24"><i>à‰ um sinal de que o conto chegou ao fim</i></font></font>
+
+3
+00:00:05,440 --> 00:00:08,360
+<font face="Trebuchet MS"><font size="24"><i>Como uma única passagem tirada</i></font></font>
+
+4
+00:00:08,360 --> 00:00:09,980
+<font face="Trebuchet MS"><font size="24"><i>De uma viagem muito longa</i></font></font>
+
+5
+00:00:09,980 --> 00:00:12,320
+<font face="Trebuchet MS"><font size="24"><i>Do ser maligno que lança trevas</i></font></font>
+
+6
+00:00:12,320 --> 00:00:14,660
+<font face="Trebuchet MS"><font size="24"><i>Por esta terra</i></font></font>
+
+7
+00:00:14,660 --> 00:00:16,990
+<font face="Trebuchet MS"><font size="24"><i>E as memórias da curta jornada</i></font></font>
+
+8
+00:00:16,990 --> 00:00:19,450
+<font face="Trebuchet MS"><font size="24"><i>Do herói que o derrotou</i></font></font>
+
+9
+00:00:20,240 --> 00:00:29,210
+<font size="24"><b>{\an8}<font size="25"><font face="Georgia"><font color="#fefcff">e a Jornada para o Além</font></font><font size="24"></font></font></b></font>
+
+10
+00:00:29,460 --> 00:00:31,760
+<font face="Trebuchet MS"><font size="24"><i>A história termina</i></font></font>
+
+11
+00:00:31,760 --> 00:00:34,260
+<font face="Trebuchet MS"><font size="24"><i>E o herói vai descansar</i></font></font>
+
+12
+00:00:34,260 --> 00:00:37,090
+<font face="Trebuchet MS"><font size="24"><i>Deixando esta terra</i></font></font>
+
+13
+00:00:37,090 --> 00:00:38,760
+<font face="Trebuchet MS"><font size="24"><i>Com dias de paz e tranquilidade</i></font></font>
+
+14
+00:00:38,760 --> 00:00:41,270
+<font face="Trebuchet MS"><font size="24"><i>A passagem do tempo é impiedosa</i></font></font>
+
+15
+00:00:41,270 --> 00:00:43,430
+<font face="Trebuchet MS"><font size="24"><i>Fazendo as pessoas se esquecerem</i></font></font>
+
+16
+00:00:43,430 --> 00:00:46,230
+<font face="Trebuchet MS"><font size="24"><i>Até os rastros deixados por sua vida</i></font></font>
+
+17
+00:00:46,230 --> 00:00:48,020
+<font face="Trebuchet MS"><font size="24"><i>E começa a enferrujar</i></font></font>
+
+18
+00:00:48,020 --> 00:00:49,860
+<font face="Trebuchet MS"><font size="24"><i>Assim como</i></font></font>
+
+19
+00:00:49,860 --> 00:00:52,150
+<font face="Trebuchet MS"><font size="24"><i>Suas palavras, desejos e coragem</i></font></font>
+
+20
+00:00:52,150 --> 00:00:55,490
+<font face="Trebuchet MS"><font size="24"><i>Tudo ainda reside dentro de mim</i></font></font>
+
+21
+00:00:55,490 --> 00:00:57,360
+<font face="Trebuchet MS"><font size="24"><i>E seguem vivos</i></font></font>
+
+22
+00:00:58,160 --> 00:00:59,910
+<font face="Trebuchet MS"><font size="24"><i>Escolhemos o mesmo caminho</i></font></font>
+
+23
+00:00:59,910 --> 00:01:02,040
+<font face="Trebuchet MS"><font size="24"><i>à‰ assim que deve ser</i></font></font>
+
+24
+00:01:02,040 --> 00:01:03,580
+<font face="Trebuchet MS"><font size="24"><i>à‰ por isso que, em algum momento,</i></font></font>
+
+25
+00:01:03,580 --> 00:01:07,830
+<font face="Trebuchet MS"><font size="24"><i>Quis entender o motivo das là¡grimas</i></font></font>
+
+26
+00:01:07,830 --> 00:01:09,210
+<font face="Trebuchet MS"><font size="24"><i>Que desciam pelo meu rosto</i></font></font>
+
+27
+00:01:09,210 --> 00:01:10,290
+<font face="Trebuchet MS"><font size="24"><i>Mesmo agora</i></font></font>
+
+28
+00:01:10,290 --> 00:01:12,670
+<font face="Trebuchet MS"><font size="24"><i>Se eu refizer a jornada que seguimos juntos</i></font></font>
+
+29
+00:01:12,670 --> 00:01:16,220
+<font face="Trebuchet MS"><font size="24"><i>Mesmo se você não estiver aqui</i></font></font>
+
+30
+00:01:16,220 --> 00:01:17,890
+<font face="Trebuchet MS"><font size="24"><i>Sei que serei capaz de encontrar</i></font></font>
+
+31
+00:01:30,020 --> 00:01:35,980
+<font face="Tahoma"><font size="22"><font color="#000000"><b><font size="19"><font face="Times New Roman"><font color="#ffffff">27 anos se passaram desde a morte do Herói Himmel.
+Estamos em Warm, uma cidade comercial nas Terras Centrais.<font color="#000000"><font face="Tahoma"><font size="22"></font></font></font></font></font></font></b></font></font></font>
+
+32
+00:01:48,660 --> 00:01:52,010
+<font face="Trebuchet MS"><font size="22"><b>Vamos nos separar e reabastecer
+os suprimentos para a viagem.</b></font></font>
+
+33
+00:01:52,010 --> 00:01:56,570
+<font face="Trebuchet MS"><font size="22"><b>Vamos nos separar, mas parece
+que estou encarregada do essencial.</b></font></font>
+
+34
+00:01:56,570 --> 00:01:58,890
+<font face="Trebuchet MS"><font size="22"><b>Comida, à¡gua, produtos dià¡rios...</b></font></font>
+
+35
+00:01:59,630 --> 00:02:02,270
+<font face="Trebuchet MS"><font size="22"><b>O que você vai comprar, Srta. Frieren?</b></font></font>
+
+36
+00:02:04,520 --> 00:02:06,020
+<font face="Trebuchet MS"><font size="22"><b>Ervas e outras coisas.</b></font></font>
+
+37
+00:02:07,720 --> 00:02:11,530
+<font face="Trebuchet MS"><font size="22"><b><i>Aquela cara é a que ela faz
+quando està¡ escondendo algo.</i></b></font></font>
+
+38
+00:02:11,950 --> 00:02:14,950
+<font face="Trebuchet MS"><font size="22"><b><i>Estou com a Srta. Frieren
+jà¡ hà¡ um bom tempo.</i></b></font></font>
+
+39
+00:02:14,950 --> 00:02:17,030
+<font face="Trebuchet MS"><font size="22"><b><i>Não dà¡ para esperar algo bom vindo disso.</i></b></font></font>
+
+40
+00:02:17,950 --> 00:02:20,490
+<font face="Trebuchet MS"><font size="22"><b><i>Ela compra coisas desnecessà¡rias
+por conta própria.</i></b></font></font>
+
+41
+00:02:21,950 --> 00:02:23,350
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Comprei isto.</b></font></font></font>
+
+42
+00:02:23,350 --> 00:02:25,040
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>E como usaremos isso?</b></font></font></font>
+
+43
+00:02:25,400 --> 00:02:27,950
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Esta droga só dissolve roupas.</b></font></font></font>
+
+44
+00:02:27,950 --> 00:02:29,300
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Devolva isso, por favor.</b></font></font></font>
+
+45
+00:02:29,300 --> 00:02:32,670
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Um livro de crà´nicas da magia.
+à‰ importante estudar.</b></font></font></font>
+
+46
+00:02:34,690 --> 00:02:39,120
+<font face="Trebuchet MS"><font size="22"><b><i>Bom, até que aquilo
+não era desnecessà¡rio...</i></b></font></font>
+
+47
+00:02:40,400 --> 00:02:43,680
+<font face="Trebuchet MS"><font size="22"><b>Certo, nos vemos na estalagem depois.</b></font></font>
+
+48
+00:02:53,200 --> 00:02:56,200
+<font face="Trebuchet MS"><font size="22"><b><i>Não podemos gastar o dinheiro
+da viagem em vão.</i></b></font></font>
+
+49
+00:02:57,950 --> 00:03:00,450
+<font face="Trebuchet MS"><font size="22"><b><i>Preciso ficar de olho nela...</i></b></font></font>
+
+50
+00:03:04,350 --> 00:03:05,800
+<font face="Trebuchet MS"><font size="22"><b><i>Uma loja de acessórios?</i></b></font></font>
+
+51
+00:03:08,950 --> 00:03:11,950
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Você dormiu sem secar
+o cabelo de novo, não foi?</b></font></font></font>
+
+52
+00:03:11,950 --> 00:03:13,320
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Francamente...</b></font></font></font>
+
+53
+00:03:15,520 --> 00:03:18,640
+<font face="Trebuchet MS"><font size="22"><b><i>Então, ela tem interesse em moda?</i></b></font></font>
+
+54
+00:03:23,950 --> 00:03:25,730
+<font face="Trebuchet MS"><font size="22"><b><i>Ela està¡ bem pensativa.</i></b></font></font>
+
+55
+00:03:27,290 --> 00:03:29,950
+<font face="Trebuchet MS"><font size="22"><b><i>Hein? Que cara é essa?</i></b></font></font>
+
+56
+00:03:29,950 --> 00:03:34,460
+<font face="Trebuchet MS"><font size="22"><b><i>Nunca vi a Srta. Frieren fazer
+uma cara tão preocupada.</i></b></font></font>
+
+57
+00:03:55,600 --> 00:03:58,260
+<font face="Trebuchet MS"><font size="22"><b><i>Ela levou bastante tempo.</i></b></font></font>
+
+58
+00:04:02,950 --> 00:04:05,430
+<font face="Trebuchet MS"><font size="22"><b><i>Acho que não tem problema
+ela comprar uns acessórios.</i></b></font></font>
+
+59
+00:04:05,430 --> 00:04:07,730
+<font face="Trebuchet MS"><font size="22"><b><i>à‰ melhor que ossos estranhos ou drogas.</i></b></font></font>
+
+60
+00:04:11,890 --> 00:04:14,530
+<font face="Trebuchet MS"><font size="22"><b><i>Acho que deu a hora de voltar à s compras.</i></b></font></font>
+
+61
+00:04:14,950 --> 00:04:18,030
+<font face="Trebuchet MS"><font size="22"><b>Tem alguma loja de doces
+gostosa por aqui?</b></font></font>
+
+62
+00:04:18,350 --> 00:04:21,160
+<font face="Trebuchet MS"><font size="22"><b><i>Como você é ardilosa.</i></b></font></font>
+
+63
+00:04:21,160 --> 00:04:24,430
+<font face="Trebuchet MS"><font size="22"><b>Tem uma taverna naquela direção.</b></font></font>
+
+64
+00:04:24,430 --> 00:04:25,630
+<font face="Trebuchet MS"><font size="22"><b>Tente perguntar por là¡.</b></font></font>
+
+65
+00:04:25,630 --> 00:04:26,830
+<font face="Trebuchet MS"><font size="22"><b>Obrigada.</b></font></font>
+
+66
+00:04:27,570 --> 00:04:30,860
+<font face="Trebuchet MS"><font size="22"><b><i>Eu não como nada doce hà¡ meses.</i></b></font></font>
+
+67
+00:04:52,320 --> 00:04:54,150
+<font face="Trebuchet MS"><font size="22"><b>Então, é aqui.</b></font></font>
+
+68
+00:04:54,150 --> 00:04:57,490
+<font face="Trebuchet MS"><font size="22"><b>Alguém conhece alguma
+loja de doces gostosa?</b></font></font>
+
+69
+00:04:57,490 --> 00:05:01,280
+<font face="Trebuchet MS"><font size="22"><b><i>Não, espera! Este não é o lugar
+para se perguntar sobre doces!</i></b></font></font>
+
+70
+00:05:01,830 --> 00:05:05,720
+<font face="Trebuchet MS"><font size="22"><b>Loja de doces? Acha que somos idiotas?</b></font></font>
+
+71
+00:05:08,060 --> 00:05:09,040
+<font face="Trebuchet MS"><font size="22"><b><i>Gulp!</i></b></font></font>
+
+72
+00:05:09,550 --> 00:05:13,660
+<font face="Trebuchet MS"><font size="22"><b>Hà¡ montanhas de doces
+deliciosos nesta cidade.</b></font></font>
+
+73
+00:05:14,950 --> 00:05:17,670
+<font face="Trebuchet MS"><font size="22"><b>Sabemos sobre todas as lojas.</b></font></font>
+
+74
+00:05:18,520 --> 00:05:20,540
+<font face="Trebuchet MS"><font size="22"><b><i>Então este é, sim,
+o lugar para se perguntar.</i></b></font></font>
+
+75
+00:05:20,950 --> 00:05:23,770
+<font face="Trebuchet MS"><font size="22"><b>Vocês sabem bastante,
+apesar da aparência.</b></font></font>
+
+76
+00:05:23,770 --> 00:05:27,680
+<font face="Trebuchet MS"><font size="22"><b>à‰ que doces são energia vital
+para nós, aventureiros.</b></font></font>
+
+77
+00:05:27,950 --> 00:05:29,950
+<font face="Trebuchet MS"><font size="22"><b><i>Eles são aventureiros...</i></b></font></font>
+
+78
+00:05:29,950 --> 00:05:34,810
+<font face="Trebuchet MS"><font size="22"><b><i>Mas não parecem serem
+violentos assim. Que medo.</i></b></font></font>
+
+79
+00:05:35,950 --> 00:05:37,230
+<font face="Trebuchet MS"><font size="22"><b>Até!</b></font></font>
+
+80
+00:05:41,350 --> 00:05:43,950
+<font face="Trebuchet MS"><font size="22"><b><i>Serà¡ que ela vai à  loja de doces?</i></b></font></font>
+
+81
+00:05:47,320 --> 00:05:51,400
+<font face="Trebuchet MS"><font size="22"><b><i>O quê? Ela està¡ indo para a estalagem...</i></b></font></font>
+
+82
+00:05:51,400 --> 00:05:53,260
+<font face="Trebuchet MS"><font size="22"><b><i>Serà¡ que jà¡ pretende voltar?</i></b></font></font>
+
+83
+00:05:55,090 --> 00:05:57,200
+<font face="Trebuchet MS"><font size="22"><b><i>Eu ainda não terminei as minhas compras...</i></b></font></font>
+
+84
+00:06:00,710 --> 00:06:01,970
+<font face="Trebuchet MS"><font size="22"><b>Você demorou.</b></font></font>
+
+85
+00:06:01,970 --> 00:06:03,950
+<font face="Trebuchet MS"><font size="22"><b>Peço desculpas.</b></font></font>
+
+86
+00:06:03,950 --> 00:06:05,950
+<font face="Trebuchet MS"><font size="22"><b>Tudo bem.</b></font></font>
+
+87
+00:06:05,950 --> 00:06:07,690
+<font face="Trebuchet MS"><font size="22"><b>Deixe as compras aí.</b></font></font>
+
+88
+00:06:15,230 --> 00:06:18,610
+<font face="Trebuchet MS"><font size="22"><b>Jà¡ faz um bom tempo,
+então que tal comermos algo gostoso?</b></font></font>
+
+89
+00:06:33,870 --> 00:06:35,950
+<font face="Trebuchet MS"><font size="22"><b>à‰ uma bela vista.</b></font></font>
+
+90
+00:06:35,950 --> 00:06:37,630
+<font face="Trebuchet MS"><font size="22"><b>Por isso recomendam este lugar.</b></font></font>
+
+91
+00:06:38,950 --> 00:06:40,370
+<font face="Trebuchet MS"><font size="22"><b>Srta. Frieren.</b></font></font>
+
+92
+00:06:41,150 --> 00:06:43,380
+<font face="Trebuchet MS"><font size="22"><b>Desculpa por ter duvidado de você.</b></font></font>
+
+93
+00:06:43,750 --> 00:06:44,880
+<font face="Trebuchet MS"><font size="22"><b>Do que està¡ falando?</b></font></font>
+
+94
+00:06:45,570 --> 00:06:46,640
+<font face="Trebuchet MS"><font size="22"><b>Nada.</b></font></font>
+
+95
+00:06:47,460 --> 00:06:49,220
+<font face="Trebuchet MS"><font size="22"><b>Escolha o que quiser.</b></font></font>
+
+96
+00:06:49,950 --> 00:06:52,180
+<font face="Trebuchet MS"><font size="22"><b>Teremos dinheiro para isso?</b></font></font>
+
+97
+00:06:52,950 --> 00:06:54,440
+<font face="Trebuchet MS"><font size="22"><b>Tenho economias guardadas.</b></font></font>
+
+98
+00:06:55,350 --> 00:06:57,520
+<font face="Trebuchet MS"><font size="22"><b><i>Ah, então, ela guardou dinheiro.</i></b></font></font>
+
+99
+00:07:02,690 --> 00:07:05,120
+<font face="Trebuchet MS"><font size="22"><b>Srta. Frieren, o que vai querer?</b></font></font>
+
+100
+00:07:05,120 --> 00:07:08,280
+<font face="Trebuchet MS"><font size="22"><b>Vejamos... Hoje estou mais para...</b></font></font>
+
+101
+00:07:09,550 --> 00:07:11,160
+<font face="Trebuchet MS"><font size="22"><b>Pudim merkur, certo?</b></font></font>
+
+102
+00:07:14,200 --> 00:07:16,920
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Hoje você està¡ mais para pudim merkur.</b></font></font></font>
+
+103
+00:07:17,460 --> 00:07:18,670
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Como você sabe?</b></font></font></font>
+
+104
+00:07:19,120 --> 00:07:22,370
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Estamos viajando juntos
+jà¡ hà¡ muito tempo.</b></font></font></font>
+
+105
+00:07:22,370 --> 00:07:23,950
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>De alguma forma, eu sei.</b></font></font></font>
+
+106
+00:07:29,200 --> 00:07:32,060
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Eu não sei nada sobre vocês.</b></font></font></font>
+
+107
+00:07:32,950 --> 00:07:35,950
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Então, terà¡ que fazer
+um esforço para aprender.</b></font></font></font>
+
+108
+00:07:36,800 --> 00:07:39,830
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Alià¡s, minha comida favorita
+é <i>omelette aux oeuf.</i></b></font></font></font>
+
+109
+00:07:39,830 --> 00:07:42,820
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Eu gosto de uvas.</b></font></font></font>
+
+110
+00:07:42,820 --> 00:07:43,860
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Jà¡ eu gosto de...</b></font></font></font>
+
+111
+00:07:43,860 --> 00:07:44,780
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>àlcool, certo?</b></font></font></font>
+
+112
+00:07:44,780 --> 00:07:45,950
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Disso, eu sei.</b></font></font></font>
+
+113
+00:07:45,950 --> 00:07:47,650
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Seu sacerdote degenerado.</b></font></font></font>
+
+114
+00:07:47,950 --> 00:07:49,950
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Não é para ficar envergonhado.</b></font></font></font>
+
+115
+00:07:49,950 --> 00:07:54,150
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Um sacerdote que bebe a ponto
+de esquecer das coisas não é perigoso?</b></font></font></font>
+
+116
+00:07:55,570 --> 00:07:57,410
+<font face="Trebuchet MS"><font size="22"><b>Fern, me desculpa.</b></font></font>
+
+117
+00:07:58,950 --> 00:08:00,670
+<font face="Trebuchet MS"><font size="22"><b>Por que està¡ se desculpando?</b></font></font>
+
+118
+00:08:01,950 --> 00:08:04,960
+<font face="Trebuchet MS"><font size="22"><b>Eu não sei nada sobre você.</b></font></font>
+
+119
+00:08:05,370 --> 00:08:09,600
+<font face="Trebuchet MS"><font size="22"><b>Por isso, eu não sabia do que você gostava.</b></font></font>
+
+120
+00:08:14,350 --> 00:08:17,860
+<font face="Trebuchet MS"><font size="22"><b>Verdade, hoje é o meu aniversà¡rio...</b></font></font>
+
+121
+00:08:28,110 --> 00:08:30,150
+<font face="Trebuchet MS"><font size="22"><b>à‰ uma presilha de cabelo linda.</b></font></font>
+
+122
+00:08:30,970 --> 00:08:34,620
+<font face="Trebuchet MS"><font size="22"><b>Muito obrigada. Fiquei
+muito feliz com o presente.</b></font></font>
+
+123
+00:08:35,040 --> 00:08:36,500
+<font face="Trebuchet MS"><font size="22"><b>Mesmo?</b></font></font>
+
+124
+00:08:37,400 --> 00:08:42,630
+<font face="Trebuchet MS"><font size="22"><b>Como você é densa em relação aos outros,
+direi isto diretamente, Srta. Frieren.</b></font></font>
+
+125
+00:08:43,920 --> 00:08:48,950
+<font face="Trebuchet MS"><font size="22"><b>A sua tentativa de saber mais
+sobre mim me deixou muito feliz.</b></font></font>
+
+126
+00:08:50,490 --> 00:08:52,390
+<font face="Trebuchet MS"><font size="22"><b>Mesmo sendo só uma tentativa?</b></font></font>
+
+127
+00:08:55,830 --> 00:08:59,860
+<font face="Trebuchet MS"><font size="22"><b>Você não sabe muito sobre
+as emoções das pessoas, não é?</b></font></font>
+
+128
+00:09:09,970 --> 00:09:11,520
+<font face="Trebuchet MS"><font size="22"><b>Jà¡ deu a hora de irmos.</b></font></font>
+
+129
+00:09:11,520 --> 00:09:12,720
+<font face="Trebuchet MS"><font size="22"><b>Certo.</b></font></font>
+
+130
+00:09:25,950 --> 00:09:27,920
+<font face="Trebuchet MS"><font size="22"><b>Alià¡s, Srta. Frieren.</b></font></font>
+
+131
+00:09:28,380 --> 00:09:31,400
+<font face="Trebuchet MS"><font size="22"><b>Existe algum objetivo
+para esta jornada?</b></font></font>
+
+132
+00:09:31,400 --> 00:09:33,370
+<font face="Trebuchet MS"><font size="22"><b>Nenhum em específico.</b></font></font>
+
+133
+00:09:33,370 --> 00:09:36,180
+<font face="Trebuchet MS"><font size="22"><b>à‰ uma viagem em prol do meu
+hobby de coletar magias.</b></font></font>
+
+134
+00:09:37,520 --> 00:09:40,400
+<font face="Trebuchet MS"><font size="22"><b>Mas, na medida do possível,</b></font></font>
+
+135
+00:09:40,400 --> 00:09:44,060
+<font face="Trebuchet MS"><font size="22"><b>gostaria de recriar os passos da aventura
+que tive com meus companheiros.</b></font></font>
+
+136
+00:09:45,230 --> 00:09:47,070
+<font face="Trebuchet MS"><font size="22"><b>Antes que desapareçam.</b></font></font>
+
+137
+00:09:47,570 --> 00:09:52,550
+<font face="Trebuchet MS"><font size="22"><b>Isso é uma coisa importante
+para você, não é, Srta. Frieren?</b></font></font>
+
+138
+00:09:53,400 --> 00:09:54,570
+<font face="Trebuchet MS"><font size="22"><b>Não sei dizer.</b></font></font>
+
+139
+00:09:55,230 --> 00:09:57,080
+<font face="Trebuchet MS"><font size="22"><b>Por isso, tentarei descobrir.</b></font></font>
+
+140
+00:10:02,890 --> 00:10:06,460
+<font face="Trebuchet MS"><font size="22"><b>Mas você, finalmente, me passou na altura.</b></font></font>
+
+141
+00:10:06,460 --> 00:10:08,570
+<font face="Trebuchet MS"><font size="22"><b>Estou com 16 anos.</b></font></font>
+
+142
+00:10:08,570 --> 00:10:09,960
+<font face="Trebuchet MS"><font size="22"><b>Jà¡ sou uma dama.</b></font></font>
+
+143
+00:10:10,690 --> 00:10:11,970
+<font face="Trebuchet MS"><font size="22"><b>"Uma dama"...</b></font></font>
+
+144
+00:10:12,950 --> 00:10:16,350
+<font face="Trebuchet MS"><font size="22"><b>Mas comemos praticamente
+as mesmas coisas...</b></font></font>
+
+145
+00:10:17,290 --> 00:10:18,460
+<font face="Trebuchet MS"><font size="22"><b>Que estranho.</b></font></font>
+
+146
+00:10:20,960 --> 00:10:23,960
+<font face="Times New Roman"><font size="25"><b><font size="16"><font size="25"></font></font></b><font face="Times New Roman"><font color="#ffffff">Episódio 3: A magia para matar pessoas</font></font></font></font>
+
+147
+00:10:23,960 --> 00:10:29,980
+<font face="Tahoma"><font size="22"><font color="#000000"><b><font size="19"><font face="Times New Roman"><font color="#ffffff">27 anos se passaram desde a morte do Herói Himmel.
+Estamos na Floresta Grà¶àŸe, nas Terras Centrais.<font color="#000000"><font face="Tahoma"><font size="22"></font></font></font></font></font></font></b></font></font></font>
+
+148
+00:10:50,420 --> 00:10:52,710
+<font face="Trebuchet MS"><font size="22"><b>Você pegou o jeito com a magia defensiva.</b></font></font>
+
+149
+00:10:54,970 --> 00:10:57,510
+<font face="Trebuchet MS"><font size="22"><b>Bom, vamos colocà¡-la em prà¡tica?</b></font></font>
+
+150
+00:11:08,150 --> 00:11:10,740
+<font face="Trebuchet MS"><font size="22"><b>Eu mirei em uma abertura na sua defesa.</b></font></font>
+
+151
+00:11:10,740 --> 00:11:13,030
+<font face="Trebuchet MS"><font size="22"><b>Se não fosse uma simulação,
+você estaria morta.</b></font></font>
+
+152
+00:11:13,620 --> 00:11:14,920
+<font face="Trebuchet MS"><font size="22"><b>Muito bem...</b></font></font>
+
+153
+00:11:16,080 --> 00:11:17,410
+<font face="Trebuchet MS"><font size="22"><b>Como farà¡ agora?</b></font></font>
+
+154
+00:11:19,660 --> 00:11:20,660
+<font face="Trebuchet MS"><font size="22"><b>Assim.</b></font></font>
+
+155
+00:11:20,660 --> 00:11:21,770
+<font face="Trebuchet MS"><font size="22"><b>Boa.</b></font></font>
+
+156
+00:11:22,900 --> 00:11:24,410
+<font face="Trebuchet MS"><font size="22"><b>Aguenta isto?</b></font></font>
+
+157
+00:11:33,400 --> 00:11:35,160
+<font face="Trebuchet MS"><font size="22"><b>Vamos parar por aqui hoje.</b></font></font>
+
+158
+00:11:43,800 --> 00:11:45,800
+<font face="Trebuchet MS"><font size="22"><b>A magia defensiva é poderosa,</b></font></font>
+
+159
+00:11:45,800 --> 00:11:48,190
+<font face="Trebuchet MS"><font size="22"><b>mas gasta bastante mana.</b></font></font>
+
+160
+00:11:48,800 --> 00:11:53,680
+<font face="Trebuchet MS"><font size="22"><b>Se continuar a expandir a à¡rea, ficarà¡
+sem poder mà¡gico em segundos ou minutos.</b></font></font>
+
+161
+00:11:55,250 --> 00:12:00,280
+<font face="Trebuchet MS"><font size="22"><b>Então, o certo a se fazer é expandir
+parcialmente nas à¡reas que seriam atingidas.</b></font></font>
+
+162
+00:12:00,280 --> 00:12:02,080
+<font face="Trebuchet MS"><font size="22"><b>Isso mesmo.</b></font></font>
+
+163
+00:12:17,520 --> 00:12:20,510
+<font face="Trebuchet MS"><font size="22"><b>Só viemos treinando
+magia defensiva recentemente.</b></font></font>
+
+164
+00:12:20,510 --> 00:12:23,000
+<font face="Trebuchet MS"><font size="22"><b>Porque nossa sobrevivência
+depende disso.</b></font></font>
+
+165
+00:12:23,340 --> 00:12:24,120
+<font face="Trebuchet MS"><font size="22"><b>à‰ verdade.</b></font></font>
+
+166
+00:12:24,120 --> 00:12:28,850
+<font face="Trebuchet MS"><font size="22"><b>Uma única magia defensiva é capaz
+de defender a maioria das magias ofensivas.</b></font></font>
+
+167
+00:12:28,850 --> 00:12:31,160
+<font face="Trebuchet MS"><font size="22"><b>à‰ tão poderosa que chega a ser singular.</b></font></font>
+
+168
+00:12:31,160 --> 00:12:35,280
+<font face="Trebuchet MS"><font size="22"><b>Fern, você não leu as crà´nicas
+da magia que te dei, não foi?</b></font></font>
+
+169
+00:12:35,840 --> 00:12:39,280
+<font face="Trebuchet MS"><font size="22"><b>A magia não é só sobre combate.</b></font></font>
+
+170
+00:12:41,560 --> 00:12:45,290
+<font face="Trebuchet MS"><font size="22"><b>Estou vendo que terei que ler
+para você antes de dormir...</b></font></font>
+
+171
+00:12:45,880 --> 00:12:47,040
+<font face="Trebuchet MS"><font size="22"><b>Posso ler sozinha.</b></font></font>
+
+172
+00:12:47,440 --> 00:12:49,040
+<font face="Trebuchet MS"><font size="22"><b>Não sou mais criança.</b></font></font>
+
+173
+00:12:57,920 --> 00:13:00,110
+<font face="Trebuchet MS"><font size="22"><b>Este é o vilarejo
+que està¡vamos procurando.</b></font></font>
+
+174
+00:13:00,720 --> 00:13:03,050
+<font face="Trebuchet MS"><font size="22"><b>Està¡ procurando
+por mais uma magia estranha?</b></font></font>
+
+175
+00:13:03,400 --> 00:13:06,060
+<font face="Trebuchet MS"><font size="22"><b>Não. Desta vez, é diferente.</b></font></font>
+
+176
+00:13:06,060 --> 00:13:08,080
+<font face="Trebuchet MS"><font size="22"><b>Vai depender do tempo...</b></font></font>
+
+177
+00:13:08,080 --> 00:13:09,510
+<font face="Trebuchet MS"><font size="22"><b>à‰ mesmo.</b></font></font>
+
+178
+00:13:10,020 --> 00:13:12,340
+<font face="Trebuchet MS"><font size="22"><b>Eu gostaria de fazer uma pergunta.</b></font></font>
+
+179
+00:13:12,850 --> 00:13:14,440
+<font face="Trebuchet MS"><font size="22"><b>Uma elfa.</b></font></font>
+
+180
+00:13:14,440 --> 00:13:16,070
+<font face="Trebuchet MS"><font size="22"><b>Cabelos brancos...</b></font></font>
+
+181
+00:13:17,280 --> 00:13:20,320
+<font face="Trebuchet MS"><font size="22"><b>Por acaso, você é a Srta. Frieren?</b></font></font>
+
+182
+00:13:21,910 --> 00:13:23,800
+<font face="Trebuchet MS"><font size="22"><b>Como sabe?</b></font></font>
+
+183
+00:13:26,040 --> 00:13:28,910
+<font face="Trebuchet MS"><font size="22"><b>Quer saber onde Qual està¡ selado, não é?</b></font></font>
+
+184
+00:13:29,880 --> 00:13:31,720
+<font face="Trebuchet MS"><font size="22"><b>Te levarei até là¡.</b></font></font>
+
+185
+00:13:32,720 --> 00:13:34,480
+<font face="Trebuchet MS"><font size="22"><b>"Qual"?</b></font></font>
+
+186
+00:13:34,480 --> 00:13:36,830
+<font face="Trebuchet MS"><font size="22"><b>Qual, o Sà¡bio Ancião da Corrupção.</b></font></font>
+
+187
+00:13:38,310 --> 00:13:43,840
+<font face="Trebuchet MS"><font size="22"><b>à‰ um demà´nio que cometeu diversas
+atrocidades nesta terra hà¡ 80 anos.</b></font></font>
+
+188
+00:13:43,840 --> 00:13:48,910
+<font face="Trebuchet MS"><font size="22"><b>O Herói Himmel
+e seus companheiros o selaram.</b></font></font>
+
+189
+00:13:50,220 --> 00:13:54,520
+<font face="Trebuchet MS"><font size="22"><b>Eu vim exterminà¡-lo,
+jà¡ que o selo desaparecerà¡ em breve.</b></font></font>
+
+190
+00:13:54,520 --> 00:13:57,000
+<font face="Trebuchet MS"><font size="22"><b>Mas como você sabia?</b></font></font>
+
+191
+00:13:57,000 --> 00:13:59,530
+<font face="Trebuchet MS"><font size="22"><b>Eu não contei a ninguém sobre isso.</b></font></font>
+
+192
+00:14:00,200 --> 00:14:02,320
+<font face="Trebuchet MS"><font size="22"><b>Até cerca de 30 anos atrà¡s,</b></font></font>
+
+193
+00:14:02,320 --> 00:14:06,780
+<font face="Trebuchet MS"><font size="22"><b>o Sr. Himmel o visitava
+o vilarejo anualmente.</b></font></font>
+
+194
+00:14:07,200 --> 00:14:10,960
+<font face="Trebuchet MS"><font size="22"><b>Ele aparecia para ver a situação do selo.</b></font></font>
+
+195
+00:14:10,960 --> 00:14:13,480
+<font face="Trebuchet MS"><font size="22"><b>Sempre se importando com as pessoas...</b></font></font>
+
+196
+00:14:13,480 --> 00:14:16,920
+<font face="Trebuchet MS"><font size="22"><b>Ele também falava
+sobre você, Srta. Frieren.</b></font></font>
+
+197
+00:14:17,360 --> 00:14:20,670
+<font face="Trebuchet MS"><font size="22"><b>Que você tinha um coração
+de gelo por nunca visitar.</b></font></font>
+
+198
+00:14:21,000 --> 00:14:22,720
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Como ela é fria, não é?</b></font></font></font>
+
+199
+00:14:22,720 --> 00:14:24,400
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Sim, bem fria.</b></font></font></font>
+
+200
+00:14:24,400 --> 00:14:25,930
+<font face="Trebuchet MS"><font size="22"><b><i>Tà¡ bom, desculpa.</i></b></font></font>
+
+201
+00:14:26,280 --> 00:14:30,680
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Mas ela não é fria a ponto
+de ignorar o vilarejo.</b></font></font></font>
+
+202
+00:14:31,760 --> 00:14:35,190
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Ela virà¡ quando o selo
+estiver prestes a se romper.</b></font></font></font>
+
+203
+00:14:35,960 --> 00:14:38,440
+<font face="Trebuchet MS"><font size="22"><b>Foi o que ele disse.</b></font></font>
+
+204
+00:14:39,120 --> 00:14:40,200
+<font face="Trebuchet MS"><font size="22"><b>Ah, é?</b></font></font>
+
+205
+00:14:48,040 --> 00:14:49,450
+<font face="Trebuchet MS"><font size="22"><b>Esse é...</b></font></font>
+
+206
+00:15:03,480 --> 00:15:05,920
+<font face="Trebuchet MS"><font size="22"><b>Està¡ bem instà¡vel mesmo.</b></font></font>
+
+207
+00:15:06,480 --> 00:15:10,680
+<font face="Trebuchet MS"><font size="22"><b>Vamos remover o selo amanhã
+e exterminar Qual.</b></font></font>
+
+208
+00:15:17,510 --> 00:15:21,250
+<font face="Trebuchet MS"><font size="22"><b>Foi você quem selou o Qual, não foi?</b></font></font>
+
+209
+00:15:21,970 --> 00:15:24,860
+<font face="Trebuchet MS"><font size="22"><b>Havia um motivo para isso?</b></font></font>
+
+210
+00:15:25,940 --> 00:15:28,820
+<font face="Trebuchet MS"><font size="22"><b>Em resumo, foi porque
+o Qual era muito poderoso.</b></font></font>
+
+211
+00:15:33,000 --> 00:15:34,510
+<font face="Trebuchet MS"><font size="22"><b><i>Não conseguimos derrotà¡-lo.</i></b></font></font>
+
+212
+00:15:35,850 --> 00:15:39,620
+<font face="Trebuchet MS"><font size="22"><b><i>O Qual era um incrível feiticeiro
+do exército do Rei Demà´nio.</i></b></font></font>
+
+213
+00:15:40,280 --> 00:15:45,680
+<font face="Trebuchet MS"><font size="22"><b><i>Zoltraak, a primeira magia
+perfurante, foi criada por ele.</i></b></font></font>
+
+214
+00:15:46,380 --> 00:15:48,760
+<font face="Trebuchet MS"><font size="22"><b><i>Não só era capaz de perfurar os humanos,</i></b></font></font>
+
+215
+00:15:48,760 --> 00:15:51,740
+<font face="Trebuchet MS"><font size="22"><b><i>como também de atravessar
+a resistência dos equipamentos</i></b></font></font>
+
+216
+00:15:51,740 --> 00:15:54,980
+<font face="Trebuchet MS"><font size="22"><b><i>e destruir o corpo diretamente.</i></b></font></font>
+
+217
+00:15:55,450 --> 00:15:58,760
+<font face="Trebuchet MS"><font size="22"><b>Dizem que 40% dos aventureiros</b></font></font>
+
+218
+00:15:58,760 --> 00:16:04,230
+<font face="Trebuchet MS"><font size="22"><b>e 70% dos magos desta região
+foram mortos pelo Zoltraak.</b></font></font>
+
+219
+00:16:07,600 --> 00:16:09,860
+<font face="Trebuchet MS"><font size="22"><b>Mas, então, ele não seria forte demais?!</b></font></font>
+
+220
+00:16:10,560 --> 00:16:13,040
+<font face="Trebuchet MS"><font size="22"><b>Sim, ele é forte demais.</b></font></font>
+
+221
+00:16:13,040 --> 00:16:14,680
+<font face="Trebuchet MS"><font size="22"><b>De fato, extremamente poderoso.</b></font></font>
+
+222
+00:16:15,440 --> 00:16:18,750
+<font face="Trebuchet MS"><font size="22"><b>E foi por isso que o feitiço
+virou contra o feiticeiro.</b></font></font>
+
+223
+00:16:19,560 --> 00:16:21,400
+<font face="Trebuchet MS"><font size="22"><b>O que quer dizer com isso?</b></font></font>
+
+224
+00:16:25,710 --> 00:16:28,240
+<font face="Trebuchet MS"><font size="22"><b>Você não leu mesmo as crà´nicas da magia!</b></font></font>
+
+225
+00:16:28,850 --> 00:16:31,000
+<font face="Trebuchet MS"><font size="22"><b>à‰, terei que ler para você.</b></font></font>
+
+226
+00:16:31,000 --> 00:16:33,050
+<font face="Trebuchet MS"><font size="22"><b>Lerei agora mesmo.</b></font></font>
+
+227
+00:16:33,050 --> 00:16:35,050
+<font face="Trebuchet MS"><font size="22"><b>Não, não precisa.</b></font></font>
+
+228
+00:16:35,680 --> 00:16:38,270
+<font face="Trebuchet MS"><font size="22"><b>à‰ importante ter uma boa noite de sono.</b></font></font>
+
+229
+00:16:39,080 --> 00:16:40,940
+<font face="Trebuchet MS"><font size="22"><b>Você entenderà¡ amanhã.</b></font></font>
+
+230
+00:16:47,200 --> 00:16:48,680
+<font face="Trebuchet MS"><font size="22"><b>Vou quebrar o selo.</b></font></font>
+
+231
+00:16:50,880 --> 00:16:52,410
+<font face="Trebuchet MS"><font size="22"><b>Não baixe sua guarda.</b></font></font>
+
+232
+00:17:20,680 --> 00:17:23,800
+<font face="Trebuchet MS"><font size="22"><b>Hà¡ quanto tempo, Frieren.</b></font></font>
+
+233
+00:17:24,620 --> 00:17:26,250
+<font face="Trebuchet MS"><font size="22"><b>Quantos anos se passaram?</b></font></font>
+
+234
+00:17:26,910 --> 00:17:28,250
+<font face="Trebuchet MS"><font size="22"><b>80 anos.</b></font></font>
+
+235
+00:17:28,860 --> 00:17:32,080
+<font face="Trebuchet MS"><font size="22"><b>Só 80?</b></font></font>
+
+236
+00:17:32,080 --> 00:17:33,850
+<font face="Trebuchet MS"><font size="22"><b>Para nós, é pouco.</b></font></font>
+
+237
+00:17:35,450 --> 00:17:37,510
+<font face="Trebuchet MS"><font size="22"><b>E quanto ao Rei Demà´nio?</b></font></font>
+
+238
+00:17:37,510 --> 00:17:38,870
+<font face="Trebuchet MS"><font size="22"><b>Nós o matamos.</b></font></font>
+
+239
+00:17:38,870 --> 00:17:41,250
+<font face="Trebuchet MS"><font size="22"><b>à‰ mesmo?</b></font></font>
+
+240
+00:17:41,720 --> 00:17:43,140
+<font face="Trebuchet MS"><font size="22"><b>Sendo assim...</b></font></font>
+
+241
+00:17:43,450 --> 00:17:46,240
+<font face="Trebuchet MS"><font size="22"><b>Vejo que terei que vingà¡-lo.</b></font></font>
+
+242
+00:17:46,240 --> 00:17:48,760
+<font face="Trebuchet MS"><font size="22"><b>Fern, magia de defesa frontal.</b></font></font>
+
+243
+00:17:50,260 --> 00:17:51,510
+<font face="Trebuchet MS"><font size="22"><b>Zoltraak!</b></font></font>
+
+244
+00:18:00,220 --> 00:18:02,770
+<font face="Trebuchet MS"><font size="22"><b>Ora, que surpresa.</b></font></font>
+
+245
+00:18:03,310 --> 00:18:05,770
+<font face="Trebuchet MS"><font size="22"><b>Você bloqueou o meu Zoltraak.</b></font></font>
+
+246
+00:18:06,800 --> 00:18:11,150
+<font face="Trebuchet MS"><font size="22"><b>Essa deve ser uma magia
+de defesa avançada.</b></font></font>
+
+247
+00:18:12,080 --> 00:18:13,420
+<font face="Trebuchet MS"><font size="22"><b>Srta. Frieren.</b></font></font>
+
+248
+00:18:13,900 --> 00:18:15,970
+<font face="Trebuchet MS"><font size="22"><b>O que ele quis dizer com isso?</b></font></font>
+
+249
+00:18:17,080 --> 00:18:19,660
+<font face="Trebuchet MS"><font size="22"><b>Aquela foi uma magia de ataque comum.</b></font></font>
+
+250
+00:18:20,310 --> 00:18:25,040
+<font face="Trebuchet MS"><font size="22"><b>Aquilo que ele disparou era o Zoltraak.</b></font></font>
+
+251
+00:18:25,650 --> 00:18:27,710
+<font face="Trebuchet MS"><font size="22"><b>A magia para matar pessoas.</b></font></font>
+
+252
+00:18:31,880 --> 00:18:35,880
+<font face="Trebuchet MS"><font size="22"><b>Qual, a sua magia era extremamente forte.</b></font></font>
+
+253
+00:18:37,080 --> 00:18:41,650
+<font face="Trebuchet MS"><font size="22"><b><i>Depois que você foi selado,
+magos de todo o continente</i></b></font></font>
+
+254
+00:18:41,650 --> 00:18:45,250
+<font face="Trebuchet MS"><font size="22"><b><i>estudaram, pesquisaram
+e analisaram o seu Zoltraak.</i></b></font></font>
+
+255
+00:18:46,080 --> 00:18:51,540
+<font face="Trebuchet MS"><font size="22"><b><i>Em poucos anos, o Zoltraak foi incorporado
+no sistema de magia humano,</i></b></font></font>
+
+256
+00:18:51,540 --> 00:18:56,880
+<font face="Trebuchet MS"><font size="22"><b><i>e novas magias defensivas,
+baseadas na magia de defesa, surgiram.</i></b></font></font>
+
+257
+00:18:58,910 --> 00:19:02,740
+<font face="Trebuchet MS"><font size="22"><b>A resistência à  magia nos equipamentos
+também aumentou consideravelmente,</b></font></font>
+
+258
+00:19:02,740 --> 00:19:07,040
+<font face="Trebuchet MS"><font size="22"><b>e o Zoltraak não mata mais pessoas.</b></font></font>
+
+259
+00:19:07,650 --> 00:19:11,050
+<font face="Trebuchet MS"><font size="22"><b>Ela é considerada uma magia
+de ataque comum atualmente.</b></font></font>
+
+260
+00:19:14,420 --> 00:19:18,430
+<font face="Trebuchet MS"><font size="22"><b>Parece que 80 anos é
+bastante tempo para os humanos.</b></font></font>
+
+261
+00:19:18,740 --> 00:19:23,080
+<font face="Trebuchet MS"><font size="22"><b>Qual, se você cooperar,
+te darei uma morte rà¡pida.</b></font></font>
+
+262
+00:19:23,800 --> 00:19:25,310
+<font face="Trebuchet MS"><font size="22"><b>Entendo.</b></font></font>
+
+263
+00:19:26,080 --> 00:19:28,190
+<font face="Trebuchet MS"><font size="22"><b>Entendo...</b></font></font>
+
+264
+00:19:28,510 --> 00:19:34,250
+<font face="Trebuchet MS"><font size="22"><b>à‰ uma mecânica que alinha com a magia
+de ataque e dispersa seu poder?</b></font></font>
+
+265
+00:19:35,080 --> 00:19:37,530
+<font face="Trebuchet MS"><font size="22"><b>Que técnica complexa.</b></font></font>
+
+266
+00:19:38,970 --> 00:19:42,530
+<font face="Trebuchet MS"><font size="22"><b>Isso deve consumir muito de sua mana.</b></font></font>
+
+267
+00:19:42,530 --> 00:19:45,060
+<font face="Trebuchet MS"><font size="22"><b>Ele descobriu a fraqueza da magia de defesa.</b></font></font>
+
+268
+00:19:45,450 --> 00:19:47,920
+<font face="Trebuchet MS"><font size="22"><b>Fern, você consegue dar conta disso?</b></font></font>
+
+269
+00:19:48,290 --> 00:19:52,340
+<font face="Trebuchet MS"><font size="22"><b>Sim. Vi tudo isso durante o treinamento.</b></font></font>
+
+270
+00:19:52,680 --> 00:19:55,090
+<font face="Trebuchet MS"><font size="22"><b>Então, me proteja, também.</b></font></font>
+
+271
+00:20:20,870 --> 00:20:24,620
+<font face="Trebuchet MS"><font size="22"><b>Ah, vai voar? Interessante.</b></font></font>
+
+272
+00:20:25,310 --> 00:20:26,540
+<font face="Trebuchet MS"><font size="22"><b>Zoltraak.</b></font></font>
+
+273
+00:20:36,200 --> 00:20:38,850
+<font face="Trebuchet MS"><font size="22"><b>Frieren...</b></font></font>
+
+274
+00:20:39,740 --> 00:20:43,450
+<font face="Trebuchet MS"><font size="22"><b>A minha própria... magia...</b></font></font>
+
+275
+00:21:00,080 --> 00:21:03,250
+<font face="Trebuchet MS"><font size="22"><b>Agora, poderemos viver em paz.</b></font></font>
+
+276
+00:21:03,910 --> 00:21:06,710
+<font face="Trebuchet MS"><font size="22"><b>Ei, esse chapéu...</b></font></font>
+
+277
+00:21:06,710 --> 00:21:08,220
+<font face="Trebuchet MS"><font size="22"><b>Isto?</b></font></font>
+
+278
+00:21:09,600 --> 00:21:13,920
+<font face="Trebuchet MS"><font size="22"><b>O sol é bem forte nesta região
+durante esta estação.</b></font></font>
+
+279
+00:21:13,920 --> 00:21:16,000
+<font face="Trebuchet MS"><font size="22"><b>à‰ um grande amigo dos fazendeiros.</b></font></font>
+
+280
+00:21:16,340 --> 00:21:19,130
+<font face="Trebuchet MS"><font size="22"><b>Tenho a impressão
+de que jà¡ o vi em algum lugar.</b></font></font>
+
+281
+00:21:25,620 --> 00:21:29,770
+<font face="Trebuchet MS"><font size="22"><b>Você é o pivete desgraçado
+que levantou a minha saia.</b></font></font>
+
+282
+00:21:30,980 --> 00:21:31,770
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Eba!</b></font></font></font>
+
+283
+00:21:33,820 --> 00:21:36,910
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>O que você fez, pivete desgraçado?!</b></font></font></font>
+
+284
+00:21:36,910 --> 00:21:40,140
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Vou te matar!
+Sempre quis ver o que tinha ali!</b></font></font></font>
+
+285
+00:21:40,140 --> 00:21:41,620
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Matar não é legal.</b></font></font></font>
+
+286
+00:21:41,620 --> 00:21:44,080
+<font face="Trebuchet MS"><font size="22"><font color="#fefbfb"><b>Eu posso mostrar o meu.</b></font></font></font>
+
+287
+00:21:49,340 --> 00:21:51,040
+<font face="Trebuchet MS"><font size="22"><b>Ainda està¡ vivo.</b></font></font>
+
+288
+00:21:51,880 --> 00:21:54,790
+<font face="Trebuchet MS"><font size="22"><b>E, graças a você, viverei por mais tempo.</b></font></font>
+
+289
+00:21:55,600 --> 00:22:00,080
+<font face="Trebuchet MS"><font size="22"><b>Valeu a pena acreditar
+nas palavras do Sr. Himmel.</b></font></font>
+
+290
+00:22:09,940 --> 00:22:13,770
+<font face="Trebuchet MS"><font size="22"><b>Srta. Frieren, ele mostrou
+sua gratidão, não foi mesmo?</b></font></font>
+
+291
+00:22:13,770 --> 00:22:15,940
+<font face="Trebuchet MS"><font size="22"><b>Não foi diretamente.</b></font></font>
+
+292
+00:22:17,280 --> 00:22:20,970
+<font face="Trebuchet MS"><font size="22"><b>As pessoas deste vilarejo
+acreditavam no Himmel.</b></font></font>
+
+293
+00:22:22,400 --> 00:22:24,820
+<font face="Trebuchet MS"><font size="22"><b>Não entendo muito bem,</b></font></font>
+
+294
+00:22:24,820 --> 00:22:29,450
+<font face="Trebuchet MS"><font size="22"><b>mas acho que o Sr. Himmel
+acreditava em você.</b></font></font>
+
+295
+00:22:34,080 --> 00:22:36,080
+<font face="Trebuchet MS"><font size="22"><b>Por que isso?</b></font></font>
+
+296
+00:22:36,080 --> 00:22:37,200
+<font face="Trebuchet MS"><font size="22"><b>Por nada.</b></font></font>
+
+297
+00:22:49,960 --> 00:22:52,510
+<font face="Trebuchet MS"><font size="24"><i>E você està¡ bem?</i></font></font>
+
+298
+00:22:53,010 --> 00:22:55,010
+<font face="Trebuchet MS"><font size="24"><i>Pode me ouvir?</i></font></font>
+
+299
+00:22:55,800 --> 00:23:01,890
+<font face="Trebuchet MS"><font size="24"><i>Seguindo por trilhos desertos</i></font></font>
+
+300
+00:23:01,890 --> 00:23:04,230
+<font face="Trebuchet MS"><font size="24"><i>Chorando excessivamente</i></font></font>
+
+301
+00:23:04,810 --> 00:23:07,400
+<font face="Trebuchet MS"><font size="24"><i>Querendo que você sorria</i></font></font>
+
+302
+00:23:07,400 --> 00:23:13,450
+<font face="Trebuchet MS"><font size="24"><i>Me prendo à s memórias
+que quero manter frescas</i></font></font>
+
+303
+00:23:13,450 --> 00:23:17,160
+<font face="Trebuchet MS"><font size="24"><i>Tem uma coisa que gostaria de te dizer</i></font></font>
+
+304
+00:23:17,160 --> 00:23:19,910
+<font face="Trebuchet MS"><font size="24"><i>Com palavras mais preciosas que "adeus"</i></font></font>
+
+305
+00:23:19,910 --> 00:23:25,580
+<font face="Trebuchet MS"><font size="24"><i>Nada notà¡vel, mas especial</i></font></font>
+
+306
+00:23:25,580 --> 00:23:29,130
+<font face="Trebuchet MS"><font size="24"><i>Sabe, coisas que não poderiam ser vistas</i></font></font>
+
+307
+00:23:29,130 --> 00:23:32,170
+<font face="Trebuchet MS"><font size="24"><i>Se não fossem por estes olhos</i></font></font>
+
+308
+00:23:32,170 --> 00:23:36,930
+<font face="Trebuchet MS"><font size="24"><i>Por quê? E começam a transbordar</i></font></font>
+
+309
+00:23:36,930 --> 00:23:43,020
+<font face="Trebuchet MS"><font size="24"><i>Por isso, se eu nascesse novamente</i></font></font>
+
+310
+00:23:43,020 --> 00:23:48,860
+<font face="Trebuchet MS"><font size="24"><i>Eu, com certeza,
+escolheria este lugar mais uma vez</i></font></font>
+
+311
+00:23:48,860 --> 00:23:54,860
+<font face="Trebuchet MS"><font size="24"><i>Então, se nos encontrà¡ssemos novamente</i></font></font>
+
+312
+00:23:54,860 --> 00:24:00,620
+<font face="Trebuchet MS"><font size="24"><i>Nunca te deixaria ir,
+eu escolheria o presente</i></font></font>
+
+313
+00:24:00,620 --> 00:24:03,580
+<font face="Trebuchet MS"><font size="24"><i>Mesmo se nenhuma promessa for feita</i></font></font>
+
+314
+00:24:03,580 --> 00:24:06,500
+<font face="Trebuchet MS"><font size="24"><i>Mesmo se eu me perder em dias de solidão</i></font></font>
+
+315
+00:24:06,500 --> 00:24:12,670
+<font face="Trebuchet MS"><font size="24"><i>Não hà¡ problema com estas là¡grimas,
+pois o amanhecer certamente virà¡</i></font></font>
+
+316
+00:24:12,670 --> 00:24:15,340
+<font face="Trebuchet MS"><font size="24"><i>Estou sussurrando nossa canção de ninar</i></font></font>
+
+317
+00:24:15,340 --> 00:24:19,260
+<font face="Trebuchet MS"><font size="24"><i>Para você voltar para casa</i></font></font>
+
+318
+00:24:20,180 --> 00:24:22,920
+<font face="Trebuchet MS"><font size="22"><b><i>â€” Porque senti pena.
+â€” Porque seria melhor assim.</i></b></font></font>
+
+319
+00:24:20,440 --> 00:24:22,480
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b>{\an2}Porque
+senti
+pena</b></font></font></font>
+
+320
+00:24:20,880 --> 00:24:22,720
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b>{\an8}Porque
+seria...</b></font></font></font>
+
+321
+00:24:21,140 --> 00:24:23,260
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b><font size="15">Ela sempre exagerou as coisas.<font size="20"></font></font></b></font></font></font>
+
+322
+00:24:22,440 --> 00:24:23,740
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b>{\an8}...melhor
+assim.</b></font></font></font>
+
+323
+00:24:22,920 --> 00:24:25,500
+<font face="Trebuchet MS"><font size="22"><b><i>â€” Ela està¡ viva desde a pré-história.
+â€” Acabou a conversa depressiva!</i></b></font></font>
+
+324
+00:24:22,940 --> 00:24:25,380
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b><font size="16">Então, ela
+està¡ mesmo
+viva desde
+a pré-
+história...<font size="20"></font></font></b></font></font></font>
+
+325
+00:24:23,940 --> 00:24:25,820
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b>Acabou
+a conversa
+depressiva!</b></font></font></font>
+
+326
+00:24:24,240 --> 00:24:26,100
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b>Não é muito a sua cara,
+escrever cartas.</b></font></font></font>
+
+327
+00:24:25,500 --> 00:24:27,690
+<font face="Trebuchet MS"><font size="22"><b><i>â€” à‰ uma velha história.
+â€” Chegamos em Aureole.</i></b></font></font>
+
+328
+00:24:25,540 --> 00:24:27,460
+<font face="Times New Roman"><font size="20"><font color="#1f221f"><b><font size="18">à‰ uma
+velha
+história.<font size="20"></font></font></b></font></font></font>
+
+329
+00:24:27,690 --> 00:24:29,910
+<font face="Trebuchet MS"><font size="22"><b><i>A terra onde descansam as almas.</i></b></font></font>
+
+330
+00:24:27,730 --> 00:24:29,960
+<font face="Times New Roman"><font size="25"><b></b><font color="#dbddda">Episódio 4</font></font></font>
